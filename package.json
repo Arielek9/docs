@@ -42,7 +42,7 @@
     "highlight.js": "10.7.3",
     "jquery": "3.7.1",
     "jquery-colorbox": "1.6.4",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.23"
   },
   "devDependencies": {
     "cspell": "^8.9.1",
